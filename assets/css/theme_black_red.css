@@ -357,9 +357,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-  background-color: transparent;
+  background-color: rgb(0, 0, 0);
   font-size: 15px;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 @media (min-width: 992px) {
